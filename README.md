@@ -88,7 +88,7 @@ Bidirectional sync between [Paperclip AI](https://github.com/anthropics/papercli
 ### Installation
 
 ```bash
-git clone https://github.com/creed-ai/paperclip-trello-sync.git
+git clone https://github.com/CreedofChampions/paperclip-trello-sync.git
 cd paperclip-trello-sync
 npm install
 ```

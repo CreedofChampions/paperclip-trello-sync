@@ -5,10 +5,10 @@
   "description": "Bidirectional sync between Paperclip issues and Trello boards. Syncs status, comments, and priorities automatically.",
   "author": {
     "name": "CREED",
-    "url": "https://github.com/creed-ai"
+    "url": "https://github.com/CreedofChampions"
   },
-  "homepage": "https://github.com/creed-ai/paperclip-trello-sync",
-  "repository": "https://github.com/creed-ai/paperclip-trello-sync",
+  "homepage": "https://github.com/CreedofChampions/paperclip-trello-sync",
+  "repository": "https://github.com/CreedofChampions/paperclip-trello-sync",
   "license": "MIT",
   "keywords": ["trello", "sync", "project-management", "kanban", "integration"],
   "skills": "./skills/",
