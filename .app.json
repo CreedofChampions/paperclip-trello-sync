@@ -1,0 +1,10 @@
+<!-- created by AI -->
+{
+  "apps": {
+    "trello": {
+      "id": "connector_trello_sync",
+      "name": "Trello",
+      "description": "Bidirectional sync between Paperclip and Trello"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+<!-- created by AI -->
+{
+  "name": "trello",
+  "version": "1.0.0",
+  "description": "Bidirectional sync between Paperclip issues and Trello boards. Syncs status, comments, and priorities automatically.",
+  "author": {
+    "name": "CREED",
+    "url": "https://github.com/creed-ai"
+  },
+  "homepage": "https://github.com/creed-ai/paperclip-trello-sync",
+  "repository": "https://github.com/creed-ai/paperclip-trello-sync",
+  "license": "MIT",
+  "keywords": ["trello", "sync", "project-management", "kanban", "integration"],
+  "skills": "./skills/",
+  "apps": "../.app.json",
+  "interface": {
+    "displayName": "Trello Sync",
+    "shortDescription": "Bidirectional Paperclip-Trello issue sync",
+    "longDescription": "Automatically syncs Paperclip issues to Trello boards and cards with full bidirectional support. Status changes, comments, and priorities stay in sync across both platforms. Create and manage Trello boards directly from Paperclip.",
+    "developerName": "CREED",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": [
+      "Sync all issues to my Trello board",
+      "Create a new Trello board for this project",
+      "Show me my Trello board status"
+    ],
+    "brandColor": "#0079BF"
+  }
+}
